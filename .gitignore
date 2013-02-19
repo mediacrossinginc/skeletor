@@ -5,3 +5,8 @@ project/plugins/project
 project/plugins/target
 project/target
 target
+.DS_Store
+.cache
+.classpath
+.project
+.settings
